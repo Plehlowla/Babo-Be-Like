@@ -22,3 +22,11 @@ body, html {
     transform: translate(-50%, -50%);
     color: white;
   }
+  .hero-image2 {
+    background-image:url("yuhism.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+  }
